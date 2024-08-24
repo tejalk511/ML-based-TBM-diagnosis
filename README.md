@@ -1,4 +1,4 @@
-🧠 Meningitis Diagnostic Aid using Machine Learning< br / >
+🧠 Meningitis Diagnostic Aid using Machine Learning
 Welcome to the Meningitis Diagnostic Aid project! This tool leverages machine learning to assist in diagnosing Tuberculous Meningitis (TBM) and Pyogenic Meningitis (PM), especially in areas with limited access to advanced healthcare facilities.
 
 🌟 Introduction
