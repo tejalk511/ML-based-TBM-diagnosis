@@ -8,6 +8,7 @@ Meningitis can be life-threatening if not diagnosed early. However, accurate dia
 Complex Diagnosis: Diagnosing TBM and PM requires specialized tests that may not be accessible in rural or under-resourced areas.
 Need for Early Detection: Early diagnosis is vital for effective treatment, but delays are common due to a lack of resources.
 Resource Limitations: Many patients suffer because they can't access or afford advanced diagnostic tools.
+
 💡 Solution
 Our solution is a machine learning-based diagnostic aid that uses cerebrospinal fluid (CSF) laboratory data to differentiate between TBM and PM. We’ve built an interactive web interface using Gradio, allowing healthcare providers to input data and quickly receive a diagnostic output.
 
@@ -18,11 +19,16 @@ Key Features:
 📊 Graphical and Textual Output: Presents results visually and with clear text explanations, making the diagnosis easy to understand.
 🔍 Input/Output
 📝 Input
+
 7 CSF Laboratory Features: Essential data points required for the model to make an accurate diagnosis of meningitis.
 📈 Output
+
 Graphical Representation: A graph generated using Matplotlib shows the severity of the condition based on data quartiles.
 Textual Summary: A clear summary indicating the level of severity (e.g., Mild, Severe, Highly Severe).
+
+
 🛠️ Development Tools
+
 Python 3.x: The primary programming language used for developing the system.
 NumPy: Utilized for numerical computations and efficient data manipulation.
 Matplotlib: Used for creating visualizations to help interpret and present the diagnostic results.
