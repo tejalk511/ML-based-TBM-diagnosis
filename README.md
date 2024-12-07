@@ -1,4 +1,4 @@
-# 🧠 Meningitis Diagnostic Aid using Machine Learning
+# 🧠 ML-Driven Clinical Decision Support for Tuberculosis Meningitis Diagnosis
 
 ## Introduction
 
